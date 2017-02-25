@@ -1,0 +1,1355 @@
+/Case_Olin/GcmSerialNetwork/Gcm/Network/in/fldn_enb,BI,{ok},Inactive,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/Network/in/lgt_enb,BI,{ok},Inactive,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/Network/in/oa_temp,AI,{ok},25.73,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/boxflow,AI,{ok},563.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/flowsetpoint,AI,{ok},582.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/maxflow,AI,{ok},900.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/minflow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/spacesetpoint,AI,{ok},72.77 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_EST/Graphic/spacetemp,AI,{ok},72.81 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/boxflow,AI,{ok},907.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/flowsetpoint,AI,{ok},900.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/maxflow,AI,{ok},900.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/minflow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/spacesetpoint,AI,{ok},68.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm201A_WST/Graphic/spacetemp,AI,{ok},71.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/maxflow,AI,{ok},200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/spacesetpoint,AI,{ok},77.06 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm202/Graphic/spacetemp,AI,{ok},74.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/boxflow,AI,{ok},232.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/flowsetpoint,AI,{ok},310.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/maxflow,AI,{ok},330.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/spacesetpoint,AI,{ok},73.98 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm204/Graphic/spacetemp,AI,{ok},74.50 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/maxflow,AI,{ok},660.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/spacesetpoint,AI,{ok},78.66 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_NTH/Graphic/spacetemp,AI,{ok},72.52 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/maxflow,AI,{ok},330.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/spacesetpoint,AI,{ok},78.27 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm206_STH/Graphic/spacetemp,AI,{ok},74.96 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/maxflow,AI,{ok},630.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/spacesetpoint,AI,{ok},75.23 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207A/Graphic/spacetemp,AI,{ok},73.41 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/maxflow,AI,{ok},420.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/spacesetpoint,AI,{ok},75.52 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207B/Graphic/spacetemp,AI,{ok},70.30 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/maxflow,AI,{ok},600.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/spacesetpoint,AI,{ok},76.77 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_EST/Graphic/spacetemp,AI,{ok},73.55 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/maxflow,AI,{ok},200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/spacesetpoint,AI,{ok},78.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm207D_WST/Graphic/spacetemp,AI,{ok},73.98 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/boxflow,AI,{ok},341.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/flowsetpoint,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/maxflow,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/spacesetpoint,AI,{ok},71.17 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm209/Graphic/spacetemp,AI,{ok},71.91 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/boxflow,AI,{ok},293.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/flowsetpoint,AI,{ok},300.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/maxflow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/minflow,AI,{ok},300.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/spacesetpoint,AI,{ok},86.67 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm215/Graphic/spacetemp,AI,{ok},72.81 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/spacesetpoint,AI,{ok},87.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm302/Graphic/spacetemp,AI,{ok},75.43 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/maxflow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/spacesetpoint,AI,{ok},72.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm303/Graphic/spacetemp,AI,{ok},71.16 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/boxflow,AI,{ok},86.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/flowsetpoint,AI,{ok},104.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/maxflow,AI,{ok},620.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/spacesetpoint,AI,{ok},72.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm304/Graphic/spacetemp,AI,{ok},71.21 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/maxflow,AI,{ok},150.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/spacesetpoint,AI,{ok},75.80 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm305/Graphic/spacetemp,AI,{ok},74.18 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/maxflow,AI,{ok},395.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/spacesetpoint,AI,{ok},86.44 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm307/Graphic/spacetemp,AI,{ok},74.34 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/boxflow,AI,{ok},246.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/flowsetpoint,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/maxflow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/spacesetpoint,AI,{ok},70.95 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm309/Graphic/spacetemp,AI,{ok},71.16 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/flowsetpoint,AI,{ok},24.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/maxflow,AI,{ok},310.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm311/Graphic/spacetemp,AI,{ok},69.82 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/maxflow,AI,{ok},175.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/spacesetpoint,AI,{ok},78.72 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm312/Graphic/spacetemp,AI,{ok},71.91 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/boxflow,AI,{ok},452.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/flowsetpoint,AI,{ok},458.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/maxflow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/spacesetpoint,AI,{ok},72.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm313/Graphic/spacetemp,AI,{ok},71.77 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/boxflow,AI,{ok},287.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/flowsetpoint,AI,{ok},315.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/maxflow,AI,{ok},1240.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/spacesetpoint,AI,{ok},74.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm314/Graphic/spacetemp,AI,{ok},74.18 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/maxflow,AI,{ok},225.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/spacesetpoint,AI,{ok},72.72 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm315/Graphic/spacetemp,AI,{ok},71.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/boxflow,AI,{ok},185.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/flowsetpoint,AI,{ok},173.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/maxflow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/spacesetpoint,AI,{ok},71.91 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm316/Graphic/spacetemp,AI,{ok},71.34 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/boxflow,AI,{ok},341.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/flowsetpoint,AI,{ok},334.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/maxflow,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm319/Graphic/spacetemp,AI,{ok},70.03 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/boxflow,AI,{ok},312.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/flowsetpoint,AI,{ok},310.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/maxflow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/spacesetpoint,AI,{ok},72.60 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm402/Graphic/spacetemp,AI,{ok},72.85 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/maxflow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/spacesetpoint,AI,{ok},82.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm406/Graphic/spacetemp,AI,{ok},75.59 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/boxflow,AI,{ok},280.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/flowsetpoint,AI,{ok},272.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/maxflow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm408/Graphic/spacetemp,AI,{ok},69.97 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/boxflow,AI,{ok},183.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/flowsetpoint,AI,{ok},183.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/maxflow,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/spacesetpoint,AI,{ok},71.12 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm409/Graphic/spacetemp,AI,{ok},71.12 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/boxflow,AI,{ok},38.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/flowsetpoint,AI,{ok},31.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/spacesetpoint,AI,{ok},73.52 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm411/Graphic/spacetemp,AI,{ok},73.43 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/boxflow,AI,{ok},389.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/flowsetpoint,AI,{ok},386.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/minflow,AI,{ok},50.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm412/Graphic/spacetemp,AI,{ok},71.17 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/maxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/occunocc,BI,{ok},Off,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/spacesetpoint,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm413/Graphic/spacetemp,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/maxflow,AI,{ok},275.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/spacesetpoint,AI,{ok},74.49 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm414/Graphic/spacetemp,AI,{ok},73.91 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/maxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/occunocc,BI,{ok},Off,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/spacesetpoint,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm415/Graphic/spacetemp,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/boxflow,AI,{ok},44.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/flowsetpoint,AI,{ok},37.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm417/Graphic/spacetemp,AI,{ok},69.97 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/boxflow,AI,{ok},45.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/flowsetpoint,AI,{ok},20.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/maxflow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/spacesetpoint,AI,{ok},70.88 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm502/Graphic/spacetemp,AI,{ok},70.41 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/boxflow,AI,{ok},227.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/flowsetpoint,AI,{ok},187.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/maxflow,AI,{ok},680.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/spacesetpoint,AI,{ok},74.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm503/Graphic/spacetemp,AI,{ok},74.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/maxflow,AI,{ok},540.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/spacesetpoint,AI,{ok},85.98 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm504/Graphic/spacetemp,AI,{ok},74.18 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/maxflow,AI,{ok},550.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/spacesetpoint,AI,{ok},86.50 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm505/Graphic/spacetemp,AI,{ok},76.99 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/maxflow,AI,{ok},525.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/spacesetpoint,AI,{ok},81.06 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm507/Graphic/spacetemp,AI,{ok},73.71 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/boxflow,AI,{ok},343.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/flowsetpoint,AI,{ok},336.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/maxflow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm510/Graphic/spacetemp,AI,{ok},69.97 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/flowsetpoint,AI,{ok},17.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/maxflow,AI,{ok},800.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/spacesetpoint,AI,{ok},74.77 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm513/Graphic/spacetemp,AI,{ok},74.66 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/boxflow,AI,{ok},276.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/flowsetpoint,AI,{ok},222.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/maxflow,AI,{ok},620.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/spacesetpoint,AI,{ok},74.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm514/Graphic/spacetemp,AI,{ok},74.27 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/boxflow,AI,{ok},145.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/flowsetpoint,AI,{ok},147.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/maxflow,AI,{ok},745.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/spacesetpoint,AI,{ok},72.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm515/Graphic/spacetemp,AI,{ok},71.95 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/boxflow,AI,{ok},47.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/flowsetpoint,AI,{ok},48.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/maxflow,AI,{ok},235.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/spacesetpoint,AI,{ok},75.63 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm517/Graphic/spacetemp,AI,{ok},75.59 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/boxflow,AI,{ok},401.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/flowsetpoint,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/maxflow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/minflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm519/Graphic/spacetemp,AI,{ok},68.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/boxflow,AI,{ok},469.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/flowsetpoint,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/maxflow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/spacesetpoint,AI,{ok},68.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm602/Graphic/spacetemp,AI,{ok},69.80 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/boxflow,AI,{ok},298.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/flowsetpoint,AI,{ok},295.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/maxflow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/spacesetpoint,AI,{ok},71.05 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm603/Graphic/spacetemp,AI,{ok},71.02 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/maxflow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/spacesetpoint,AI,{ok},83.58 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm604/Graphic/spacetemp,AI,{ok},75.73 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/flowsetpoint,AI,{ok},44.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/maxflow,AI,{ok},1080.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/spacesetpoint,AI,{ok},75.69 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm605/Graphic/spacetemp,AI,{ok},75.10 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/maxflow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/spacesetpoint,AI,{ok},72.48 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm607/Graphic/spacetemp,AI,{ok},71.72 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/maxflow,AI,{ok},525.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/spacesetpoint,AI,{ok},77.12 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm611/Graphic/spacetemp,AI,{ok},73.13 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/boxflow,AI,{ok},207.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/flowsetpoint,AI,{ok},189.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/maxflow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/spacesetpoint,AI,{ok},72.38 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm613/Graphic/spacetemp,AI,{ok},72.38 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/boxflow,AI,{ok},502.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/flowsetpoint,AI,{ok},492.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/maxflow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm614/Graphic/spacetemp,AI,{ok},69.88 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/boxflow,AI,{ok},59.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/flowsetpoint,AI,{ok},53.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/maxflow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm615/Graphic/spacetemp,AI,{ok},69.97 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/boxflow,AI,{ok},51.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/flowsetpoint,AI,{ok},53.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm617/Graphic/spacetemp,AI,{ok},70.11 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/maxflow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/spacesetpoint,AI,{ok},76.03 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm702/Graphic/spacetemp,AI,{ok},74.18 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/boxflow,AI,{ok},319.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/flowsetpoint,AI,{ok},230.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/maxflow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/spacesetpoint,AI,{ok},74.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm704/Graphic/spacetemp,AI,{ok},73.87 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/boxflow,AI,{ok},220.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/maxflow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/spacesetpoint,AI,{ok},76.38 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm707/Graphic/spacetemp,AI,{ok},70.73 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/boxflow,AI,{ok},97.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/flowsetpoint,AI,{ok},112.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/spacesetpoint,AI,{ok},70.34 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm709/Graphic/spacetemp,AI,{ok},70.42 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/boxflow,AI,{ok},150.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/flowsetpoint,AI,{ok},167.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/maxflow,AI,{ok},800.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/spacesetpoint,AI,{ok},74.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm710/Graphic/spacetemp,AI,{ok},74.05 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/maxflow,AI,{ok},1050.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/spacesetpoint,AI,{ok},87.70 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm711/Graphic/spacetemp,AI,{ok},73.87 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/boxflow,AI,{ok},128.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/flowsetpoint,AI,{ok},133.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/maxflow,AI,{ok},200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/spacesetpoint,AI,{ok},70.50 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm712/Graphic/spacetemp,AI,{ok},70.56 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/boxflow,AI,{ok},446.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/flowsetpoint,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/maxflow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/minflow,AI,{ok},100.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm714/Graphic/spacetemp,AI,{ok},70.56 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/maxflow,AI,{ok},1080.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/spacesetpoint,AI,{ok},75.46 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm802/Graphic/spacetemp,AI,{ok},74.20 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/boxflow,AI,{ok},915.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/flowsetpoint,AI,{ok},929.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/maxflow,AI,{ok},1480.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/spacesetpoint,AI,{ok},70.03 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm803/Graphic/spacetemp,AI,{ok},70.42 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/boxflow,AI,{ok},335.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/flowsetpoint,AI,{ok},410.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/maxflow,AI,{ok},620.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/spacesetpoint,AI,{ok},70.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm804/Graphic/spacetemp,AI,{ok},70.41 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/boxflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/flowsetpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/maxflow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/spacesetpoint,AI,{ok},74.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm805/Graphic/spacetemp,AI,{ok},73.27 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/boxflow,AI,{ok},91.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/flowsetpoint,AI,{ok},103.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/maxflow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/spacesetpoint,AI,{ok},70.83 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm806/Graphic/spacetemp,AI,{ok},70.88 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/boxflow,AI,{ok},105.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/flowsetpoint,AI,{ok},79.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/maxflow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/spacesetpoint,AI,{ok},69.52 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/cooling/Rm809/Graphic/spacetemp,AI,{ok},69.41 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/boxflow,AI,{ok},977.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/flowsetpoint,AI,{ok},1156.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/hwvalve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/maxflow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/minflow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/spacesetpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm404_405/Graphic/spacetemp,AI,{ok},72.07 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/boxflow,AI,{ok},127.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/flowsetpoint,AI,{ok},100.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/hwvalve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/maxflow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/minflow,AI,{ok},100.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/spacesetpoint,AI,{ok},72.95 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/Rm703/Graphic/spacetemp,AI,{ok},72.52 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/boxflow,AI,{ok},828.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/flowsetpoint,AI,{ok},813.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/hwvalve,AI,{ok},26.44 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/maxflow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/minflow,AI,{ok},300.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/spacesetpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF2_BRIDG/Graphic/spacetemp,AI,{ok},72.07 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/boxflow,AI,{ok},858.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/flowsetpoint,AI,{ok},819.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/hwvalve,AI,{ok},1.01 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/maxflow,AI,{ok},1500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/minflow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/spacesetpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF3_BRIDG/Graphic/spacetemp,AI,{ok},72.22 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/boxflow,AI,{ok},378.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/flowsetpoint,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/hwvalve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/maxflow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/minflow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/spacesetpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF4_BRIDG/Graphic/spacetemp,AI,{ok},74.81 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/boxflow,AI,{ok},1013.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/flowsetpoint,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/hwvalve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/maxflow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/minflow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/spacesetpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF5_BRIDG/Graphic/spacetemp,AI,{ok},77.29 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/boxflow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/flowsetpoint,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/hwvalve,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/maxflow,AI,{ok},1500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/minflow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/occunocc,BI,{ok},On,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/spacesetpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/VAV/reheat/RmF6_BRIDG/Graphic/spacetemp,AI,{ok},68.75 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/ac1_sch/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/ac1_sch/SpaceTemp,AI,{ok},72.23,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts2_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts2_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts3_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts3_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts4_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts4_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts5_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts5_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts6_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts6_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts7_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts7_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts8_schd/OA_Temp,AI,{ok},25.7 ºF,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/lgts8_schd/SpaceTemp,AI,{ok},70.00,1,&nbsp
+/Case_Olin/GcmSerialNetwork/Gcm/schedule/oa_temp,AI,{ok},25.73,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/filter,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/freeze,BI,{ok},Normal,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/minoaflow,AI,{ok},3265.18 cfm,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/minoutair,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/outair,AI,{ok},15.98 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/precoolvalve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/preheattemp,AI,{ok},50.08 ºF,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/ratemp,AI,{ok},73.41 ºF,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/reliefair,AI,{ok},15.98 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/returnhumid,AI,{ok},10.12 %RH,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/rfancmd,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/rfanopr,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/rfanvfd,AI,{ok},35.19 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/sastatic,AI,{ok},1.71 inwc,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/satemp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/sfancmd,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/sfandis,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/sfanopr,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/sfanvfd,AI,{ok},35.19 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/smoke,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/steamvalve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/syscmd,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/AC1/Bundle/vfdreset,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/cwrtemp,AI,{ok},0.00 ºF,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/cwsenable,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/cwstemp,AI,{ok},75.54 ºF,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/leadpump,BI,{ok},CWP-3,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/mainchillersignal,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/pump3cmd,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/pump3oper,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/pump4cmd,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/pump4oper,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/CWS/Bundle/seqreset,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/GlobalLogic/Bundle/OATemp,AI,{ok},25.73,1,&nbsp
+/Case_Olin/Logic/GlobalLogic/Bundle/entrancelights,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/GlobalLogic/Bundle/instrumentair,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/GlobalLogic/Bundle/mainsteam,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/GlobalLogic/Bundle/toiletexcmd,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/GlobalLogic/Bundle/toiletexopr,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/hwrtemp,AI,{ok},142.42 ºF,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/hwstemp,AI,{ok},147.16 ºF,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/mainsteam,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/pump1cmd,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/pump1oper,BI,{ok},On,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/pump2cmd,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/pump2oper,BI,{ok},Off,1,&nbsp
+/Case_Olin/Logic/HWS/Bundle/steamvalve,AI,{ok},37.24 %,1,&nbsp
+/Case_Olin/Trends/AC1/Cw_Valve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/AC1/Filter,BI,{ok},Clean,1,&nbsp
+/Case_Olin/Trends/AC1/Low_Temp,BI,{ok},Normal,1,&nbsp
+/Case_Olin/Trends/AC1/MinOutAir_Damper,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Trends/AC1/OA_CFM,AI,{ok},3265.18 cfm,1,&nbsp
+/Case_Olin/Trends/AC1/OutAir_Damper,AI,{ok},15.98 %,1,&nbsp
+/Case_Olin/Trends/AC1/OutAir_Temp,AI,{ok},25.73 ºF,1,&nbsp
+/Case_Olin/Trends/AC1/PreHeat_Temp,AI,{ok},50.08 ºF,1,&nbsp
+/Case_Olin/Trends/AC1/PreHeat_Valve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/AC1/RelAir_Damper,AI,{ok},15.98 %,1,&nbsp
+/Case_Olin/Trends/AC1/RtnAir_Damper,AI,{ok},84.02 %,1,&nbsp
+/Case_Olin/Trends/AC1/RtnAir_Humid,AI,{ok},10.12 %RH,1,&nbsp
+/Case_Olin/Trends/AC1/RtnAir_Temp,AI,{ok},73.41 ºF,1,&nbsp
+/Case_Olin/Trends/AC1/RtnFan_Cmnd,BI,{ok},On,1,&nbsp
+/Case_Olin/Trends/AC1/RtnFan_Proof,BI,{ok},Flow,1,&nbsp
+/Case_Olin/Trends/AC1/RtnFan_VFD_Speed,AI,{ok},21.12 hz,1,&nbsp
+/Case_Olin/Trends/AC1/SFan_Cmnd,BI,{ok},On,1,&nbsp
+/Case_Olin/Trends/AC1/SFan_HiPres,BI,{ok},Normal,1,&nbsp
+/Case_Olin/Trends/AC1/SFan_Proof,BI,{ok},Flow,1,&nbsp
+/Case_Olin/Trends/AC1/SFan_VFD_Speed,AI,{ok},21.12 hz,1,&nbsp
+/Case_Olin/Trends/AC1/Smoke,BI,{ok},Normal,1,&nbsp
+/Case_Olin/Trends/AC1/SupAir_Static,AI,{ok},1.71 inwc,1,&nbsp
+/Case_Olin/Trends/AC1/SupAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/AC1/System,BI,{ok},On,1,&nbsp
+/Case_Olin/Trends/AC1/TExh_Cmnd,BI,{ok},On,1,&nbsp
+/Case_Olin/Trends/AC1/TExh_Proof,BI,{ok},Flow,1,&nbsp
+/Case_Olin/Trends/CWS/CWP_3_Cmnd,BI,{ok},Off,1,&nbsp
+/Case_Olin/Trends/CWS/CWP_3_Proof,BI,{ok},Flow,1,&nbsp
+/Case_Olin/Trends/CWS/CWP_4_Cmnd,BI,{ok},Off,1,&nbsp
+/Case_Olin/Trends/CWS/CWP_4_Proof,BI,{ok},NoFlow,1,&nbsp
+/Case_Olin/Trends/CWS/CwSystem_Enable,BI,{ok},Off,1,&nbsp
+/Case_Olin/Trends/CWS/Cw_Supply_Temp,AI,{ok},75.54 ºF,1,&nbsp
+/Case_Olin/Trends/CWS/Lead_Pump_Select,BI,{ok},P3,1,&nbsp
+/Case_Olin/Trends/HWS/HWP_1_Cmnd,BI,{ok},On,1,&nbsp
+/Case_Olin/Trends/HWS/HWP_1_Proof,BI,{ok},Flow,1,&nbsp
+/Case_Olin/Trends/HWS/HWP_2_Cmnd,BI,{ok},Off,1,&nbsp
+/Case_Olin/Trends/HWS/HWP_2_Proof,BI,{ok},NoFlow,1,&nbsp
+/Case_Olin/Trends/HWS/Hw_Return_Temp,AI,{ok},142.42 ºF,1,&nbsp
+/Case_Olin/Trends/HWS/Hw_Supply_Temp,AI,{ok},147.16 ºF,1,&nbsp
+/Case_Olin/Trends/HWS/Main_Steam,BI,{ok},On,1,&nbsp
+/Case_Olin/Trends/HWS/OutAir_HtgEnbl_SP,AI,{ok},65.00 ºdays_F,1,&nbsp
+/Case_Olin/Trends/HWS/Stm_Vlv_Position,AI,{ok},37.24 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Damper_Position,AI,{ok},62.56 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Flow,AI,{ok},563.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Flow_Setpoint,AI,{ok},582.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Max_Flow,AI,{ok},900.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Min_Flow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Room_Setpoint,AI,{ok},72.77 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_EST/Room_Temp,AI,{ok},72.8 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Damper_Position,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Flow,AI,{ok},907.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Flow_Setpoint,AI,{ok},900.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Max_Flow,AI,{ok},900.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Min_Flow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Room_Setpoint,AI,{ok},68.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm201A_WST/Room_Temp,AI,{ok},71.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Max_Flow,AI,{ok},200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Room_Setpoint,AI,{ok},77.06 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm202/Room_Temp,AI,{ok},74.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Damper_Position,AI,{ok},70.30 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Flow,AI,{ok},232.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Flow_Setpoint,AI,{ok},310.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Max_Flow,AI,{ok},330.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Room_Setpoint,AI,{ok},73.98 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm204/Room_Temp,AI,{ok},74.5 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Max_Flow,AI,{ok},660.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Room_Setpoint,AI,{ok},78.66 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_NTH/Room_Temp,AI,{ok},72.5 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Max_Flow,AI,{ok},330.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Room_Setpoint,AI,{ok},78.27 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm206_STH/Room_Temp,AI,{ok},75.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Max_Flow,AI,{ok},630.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Room_Setpoint,AI,{ok},75.23 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207A/Room_Temp,AI,{ok},73.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Max_Flow,AI,{ok},420.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Room_Setpoint,AI,{ok},75.52 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207B/Room_Temp,AI,{ok},70.3 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Max_Flow,AI,{ok},600.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Room_Setpoint,AI,{ok},76.77 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_EST/Room_Temp,AI,{ok},73.6 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Max_Flow,AI,{ok},200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Room_Setpoint,AI,{ok},78.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm207D_WST/Room_Temp,AI,{ok},74.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Damper_Position,AI,{ok},97.43 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Flow,AI,{ok},341.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Flow_Setpoint,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Max_Flow,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Room_Setpoint,AI,{ok},71.17 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm209/Room_Temp,AI,{ok},71.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Damper_Position,AI,{ok},65.11 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Flow,AI,{ok},293.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Flow_Setpoint,AI,{ok},300.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Max_Flow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Min_Flow,AI,{ok},300.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Room_Setpoint,AI,{ok},86.67 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm215/Room_Temp,AI,{ok},72.8 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Room_Setpoint,AI,{ok},87.02 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm302/Room_Temp,AI,{ok},75.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Max_Flow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm303/Room_Temp,AI,{ok},71.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Damper_Position,AI,{ok},13.87 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Flow,AI,{ok},86.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Flow_Setpoint,AI,{ok},104.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Max_Flow,AI,{ok},620.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm304/Room_Temp,AI,{ok},71.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Max_Flow,AI,{ok},150.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Room_Setpoint,AI,{ok},75.80 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm305/Room_Temp,AI,{ok},74.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Max_Flow,AI,{ok},395.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Room_Setpoint,AI,{ok},86.44 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm307/Room_Temp,AI,{ok},74.3 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Damper_Position,AI,{ok},98.39 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Flow,AI,{ok},246.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Flow_Setpoint,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Max_Flow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Room_Setpoint,AI,{ok},70.95 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm309/Room_Temp,AI,{ok},71.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Flow_Setpoint,AI,{ok},24.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Max_Flow,AI,{ok},310.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm311/Room_Temp,AI,{ok},69.8 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Max_Flow,AI,{ok},175.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Room_Setpoint,AI,{ok},78.72 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm312/Room_Temp,AI,{ok},71.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Damper_Position,AI,{ok},37.67 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Flow,AI,{ok},452.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Flow_Setpoint,AI,{ok},458.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Max_Flow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm313/Room_Temp,AI,{ok},71.8 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Damper_Position,AI,{ok},23.15 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Flow,AI,{ok},287.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Flow_Setpoint,AI,{ok},315.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Max_Flow,AI,{ok},1240.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Room_Setpoint,AI,{ok},74.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm314/Room_Temp,AI,{ok},74.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Max_Flow,AI,{ok},225.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Room_Setpoint,AI,{ok},72.72 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm315/Room_Temp,AI,{ok},71.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Damper_Position,AI,{ok},73.99 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Flow,AI,{ok},185.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Flow_Setpoint,AI,{ok},173.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Max_Flow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Room_Setpoint,AI,{ok},71.91 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm316/Room_Temp,AI,{ok},71.3 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Damper_Position,AI,{ok},97.43 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Flow,AI,{ok},341.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Flow_Setpoint,AI,{ok},334.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Max_Flow,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm319/Room_Temp,AI,{ok},70.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Damper_Position,AI,{ok},65.68 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Flow,AI,{ok},312.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Flow_Setpoint,AI,{ok},310.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Max_Flow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Room_Setpoint,AI,{ok},72.60 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm402/Room_Temp,AI,{ok},72.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Damper_Position,AI,{ok},81.42 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Flow,AI,{ok},977.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Flow_Setpoint,AI,{ok},1156.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Hw_Valve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Max_Flow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm404_405/Room_Temp,AI,{ok},72.1 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Max_Flow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Room_Setpoint,AI,{ok},82.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm406/Room_Temp,AI,{ok},75.6 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Damper_Position,AI,{ok},56.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Flow,AI,{ok},280.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Flow_Setpoint,AI,{ok},272.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Max_Flow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm408/Room_Temp,AI,{ok},70.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Damper_Position,AI,{ok},52.29 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Flow,AI,{ok},183.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Flow_Setpoint,AI,{ok},183.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Max_Flow,AI,{ok},350.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Room_Setpoint,AI,{ok},71.12 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm409/Room_Temp,AI,{ok},71.1 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Damper_Position,AI,{ok},9.50 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Flow,AI,{ok},38.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Flow_Setpoint,AI,{ok},31.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Room_Setpoint,AI,{ok},73.52 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm411/Room_Temp,AI,{ok},73.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Damper_Position,AI,{ok},97.25 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Flow,AI,{ok},389.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Flow_Setpoint,AI,{ok},386.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Min_Flow,AI,{ok},50.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm412/Room_Temp,AI,{ok},71.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Damper_Position,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Max_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Occ_UnOcc,BI,{ok},UnOcc,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Room_Setpoint,AI,{ok},0.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm413/Room_Temp,AI,{ok},0.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Max_Flow,AI,{ok},275.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Room_Setpoint,AI,{ok},74.49 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm414/Room_Temp,AI,{ok},73.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Damper_Position,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Max_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Occ_UnOcc,BI,{ok},UnOcc,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Room_Setpoint,AI,{ok},0.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm415/Room_Temp,AI,{ok},0.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Damper_Position,AI,{ok},11.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Flow,AI,{ok},44.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Flow_Setpoint,AI,{ok},37.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm417/Room_Temp,AI,{ok},70.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Damper_Position,AI,{ok},18.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Flow,AI,{ok},45.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Flow_Setpoint,AI,{ok},20.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Max_Flow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Room_Setpoint,AI,{ok},70.88 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm502/Room_Temp,AI,{ok},70.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Damper_Position,AI,{ok},33.38 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Flow,AI,{ok},227.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Flow_Setpoint,AI,{ok},187.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Max_Flow,AI,{ok},680.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Room_Setpoint,AI,{ok},74.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm503/Room_Temp,AI,{ok},74.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Max_Flow,AI,{ok},540.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Room_Setpoint,AI,{ok},85.98 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm504/Room_Temp,AI,{ok},74.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Max_Flow,AI,{ok},550.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Room_Setpoint,AI,{ok},86.50 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm505/Room_Temp,AI,{ok},77.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Max_Flow,AI,{ok},525.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Room_Setpoint,AI,{ok},81.06 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm507/Room_Temp,AI,{ok},73.7 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Damper_Position,AI,{ok},49.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Flow,AI,{ok},343.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Flow_Setpoint,AI,{ok},336.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Max_Flow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm510/Room_Temp,AI,{ok},70.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Flow_Setpoint,AI,{ok},17.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Max_Flow,AI,{ok},800.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Room_Setpoint,AI,{ok},74.77 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm513/Room_Temp,AI,{ok},74.7 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Damper_Position,AI,{ok},44.52 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Flow,AI,{ok},276.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Flow_Setpoint,AI,{ok},222.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Max_Flow,AI,{ok},620.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Room_Setpoint,AI,{ok},74.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm514/Room_Temp,AI,{ok},74.3 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Damper_Position,AI,{ok},19.46 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Flow,AI,{ok},145.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Flow_Setpoint,AI,{ok},147.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Max_Flow,AI,{ok},745.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm515/Room_Temp,AI,{ok},71.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Damper_Position,AI,{ok},20.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Flow,AI,{ok},47.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Flow_Setpoint,AI,{ok},48.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Max_Flow,AI,{ok},235.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Room_Setpoint,AI,{ok},75.63 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm517/Room_Temp,AI,{ok},75.6 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Damper_Position,AI,{ok},80.19 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Flow,AI,{ok},401.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Flow_Setpoint,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Max_Flow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Min_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm519/Room_Temp,AI,{ok},68.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Damper_Position,AI,{ok},98.72 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Flow,AI,{ok},469.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Flow_Setpoint,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Max_Flow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Room_Setpoint,AI,{ok},68.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm602/Room_Temp,AI,{ok},69.8 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Damper_Position,AI,{ok},24.83 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Flow,AI,{ok},298.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Flow_Setpoint,AI,{ok},295.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Max_Flow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Room_Setpoint,AI,{ok},71.05 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm603/Room_Temp,AI,{ok},71.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Max_Flow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Room_Setpoint,AI,{ok},83.58 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm604/Room_Temp,AI,{ok},75.7 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Flow_Setpoint,AI,{ok},44.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Max_Flow,AI,{ok},1080.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Room_Setpoint,AI,{ok},75.69 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm605/Room_Temp,AI,{ok},75.1 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Max_Flow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Room_Setpoint,AI,{ok},72.48 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm607/Room_Temp,AI,{ok},71.7 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Max_Flow,AI,{ok},525.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Room_Setpoint,AI,{ok},77.12 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm611/Room_Temp,AI,{ok},73.1 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Damper_Position,AI,{ok},17.25 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Flow,AI,{ok},207.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Flow_Setpoint,AI,{ok},189.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Max_Flow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Room_Setpoint,AI,{ok},72.38 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm613/Room_Temp,AI,{ok},72.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Damper_Position,AI,{ok},50.20 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Flow,AI,{ok},502.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Flow_Setpoint,AI,{ok},492.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Max_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Occ_UnOcc,BI,{ok},UnOcc,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm614/Room_Temp,AI,{ok},69.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Damper_Position,AI,{ok},23.60 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Flow,AI,{ok},59.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Flow_Setpoint,AI,{ok},53.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Max_Flow,AI,{ok},250.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm615/Room_Temp,AI,{ok},70.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Damper_Position,AI,{ok},12.75 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Flow,AI,{ok},51.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Flow_Setpoint,AI,{ok},53.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm617/Room_Temp,AI,{ok},70.1 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Max_Flow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Room_Setpoint,AI,{ok},76.03 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm702/Room_Temp,AI,{ok},74.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Damper_Position,AI,{ok},10.58 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Flow,AI,{ok},127.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Flow_Setpoint,AI,{ok},100.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Hw_Valve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Max_Flow,AI,{ok},1200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Min_Flow,AI,{ok},100.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Room_Setpoint,AI,{ok},72.95 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm703/Room_Temp,AI,{ok},72.5 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Damper_Position,AI,{ok},31.89 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Flow,AI,{ok},319.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Flow_Setpoint,AI,{ok},231.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Max_Flow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Room_Setpoint,AI,{ok},74.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm704/Room_Temp,AI,{ok},73.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Damper_Position,AI,{ok},31.57 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Flow,AI,{ok},221.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Max_Flow,AI,{ok},700.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Room_Setpoint,AI,{ok},76.38 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm707/Room_Temp,AI,{ok},70.7 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Damper_Position,AI,{ok},24.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Flow,AI,{ok},96.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Flow_Setpoint,AI,{ok},108.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Room_Setpoint,AI,{ok},70.37 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm709/Room_Temp,AI,{ok},70.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Damper_Position,AI,{ok},18.75 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Flow,AI,{ok},150.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Flow_Setpoint,AI,{ok},167.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Max_Flow,AI,{ok},800.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Room_Setpoint,AI,{ok},74.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm710/Room_Temp,AI,{ok},74.0 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Max_Flow,AI,{ok},1050.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Room_Setpoint,AI,{ok},87.70 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm711/Room_Temp,AI,{ok},73.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Damper_Position,AI,{ok},64.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Flow,AI,{ok},128.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Flow_Setpoint,AI,{ok},133.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Max_Flow,AI,{ok},200.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Room_Setpoint,AI,{ok},70.50 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm712/Room_Temp,AI,{ok},70.6 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Damper_Position,AI,{ok},99.11 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Flow,AI,{ok},446.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Flow_Setpoint,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Max_Flow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Min_Flow,AI,{ok},100.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm714/Room_Temp,AI,{ok},70.6 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Max_Flow,AI,{ok},1080.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Room_Setpoint,AI,{ok},75.46 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm802/Room_Temp,AI,{ok},74.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Damper_Position,AI,{ok},61.82 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Flow,AI,{ok},915.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Flow_Setpoint,AI,{ok},929.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Max_Flow,AI,{ok},1480.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Room_Setpoint,AI,{ok},70.03 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm803/Room_Temp,AI,{ok},70.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Damper_Position,AI,{ok},54.03 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Flow,AI,{ok},335.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Flow_Setpoint,AI,{ok},410.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Max_Flow,AI,{ok},620.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Room_Setpoint,AI,{ok},70.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm804/Room_Temp,AI,{ok},70.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Damper_Position,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Flow_Setpoint,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Max_Flow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Room_Setpoint,AI,{ok},74.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm805/Room_Temp,AI,{ok},73.3 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Damper_Position,AI,{ok},20.22 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Flow,AI,{ok},91.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Flow_Setpoint,AI,{ok},103.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Max_Flow,AI,{ok},450.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Room_Setpoint,AI,{ok},70.83 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm806/Room_Temp,AI,{ok},70.9 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Damper_Position,AI,{ok},26.25 %,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Flow,AI,{ok},105.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Flow_Setpoint,AI,{ok},79.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Max_Flow,AI,{ok},400.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Min_Flow,AI,{ok},0.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Room_Setpoint,AI,{ok},69.52 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/Rm809/Room_Temp,AI,{ok},69.4 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Damper_Position,AI,{ok},82.79 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Flow,AI,{ok},828.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Flow_Setpoint,AI,{ok},813.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Hw_Valve,AI,{ok},26.44 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Max_Flow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Min_Flow,AI,{ok},300.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF2_BRIDG/Room_Temp,AI,{ok},72.1 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Damper_Position,AI,{ok},57.20 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Flow,AI,{ok},858.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Flow_Setpoint,AI,{ok},819.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Hw_Valve,AI,{ok},1.01 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Max_Flow,AI,{ok},1500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Min_Flow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF3_BRIDG/Room_Temp,AI,{ok},72.2 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Damper_Position,AI,{ok},37.79 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Flow,AI,{ok},378.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Flow_Setpoint,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Hw_Valve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Max_Flow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Min_Flow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF4_BRIDG/Room_Temp,AI,{ok},74.8 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Damper_Position,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Flow,AI,{ok},1013.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Flow_Setpoint,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Hw_Valve,AI,{ok},0.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Max_Flow,AI,{ok},1000.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Min_Flow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF5_BRIDG/Room_Temp,AI,{ok},77.3 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Damper_Position,AI,{ok},31.67 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Flow,AI,{ok},475.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Flow_Setpoint,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Hw_Valve,AI,{ok},100.00 %,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/InletAir_Temp,AI,{ok},55.51 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Max_Flow,AI,{ok},1500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Min_Flow,AI,{ok},500.00 cfm,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Occ_UnOcc,BI,{ok},Occ,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Room_Setpoint,AI,{ok},72.00 ºF,1,&nbsp
+/Case_Olin/Trends/VAVs/RmF6_BRIDG/Room_Temp,AI,{ok},68.8 ºF,1,&nbsp
