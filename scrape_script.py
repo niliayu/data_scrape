@@ -21,7 +21,7 @@ buf = [] # empty list, will populate with list of dict entries needing to be add
 timestr = {} # empty var to hold string of date/time info for buffer
 
 
-def gen_dict_entry(path, data, starttime):
+def gen_dict_entry(path, data):
     split_path = path.split('/')
 
     if len(split_path[len(split_path)-1]) > 0:
@@ -68,12 +68,11 @@ def csv_write(dict, filename):
             try:
                 tmp = open('tmp.csv', 'r')
                 tmp_reader = csv.DictReader(tmp)
-                # next(tmp_reader) # skip header
                 tmp_writer = csv.DictWriter(file, dict.keys(), delimiter=',', lineterminator='\n')
                 for row in tmp_reader:
                     tmp_writer.writerow(row)
 
-                try: # TODO: Make this work
+                try:
                     tmp.close()
                     print(os.getcwd() + '\\tmp.csv')
                     os.remove(os.getcwd() + '\\tmp.csv')
@@ -103,16 +102,28 @@ def query(url, starttime):
     timestr['currtime'] = datetime.now()
     print(timestr.get('currtime'))
     starttime = check_time_delta(starttime, datetime.now())
-    user, ps= get_creds()
-    olin_pg = requests.get(url, auth=(user, ps)) # TODO: Make sure this still works
-    decode = olin_pg.content.decode('ISO-8859-1')
-    olin_data = csv.reader(decode.splitlines(), delimiter=',')
+    user, ps = get_creds()
 
-    row_entry['Time'] = timestr.get('currtime')
-    row_entry['Time Delta'] = timestr.get('delta')
+    attempts = 0
+    while attempts > 0:
+        try:
+            olin_pg = requests.get(url, auth=(user, ps))
+            decode = olin_pg.content.decode('ISO-8859-1')
+            olin_data = csv.reader(decode.splitlines(), delimiter=',')
 
-    for row in olin_data:
-            gen_dict_entry(row[0], row[3], starttime)
+            row_entry['Time'] = timestr.get('currtime')
+            row_entry['Time Delta'] = timestr.get('delta')
+
+            for row in olin_data:
+                gen_dict_entry(row[0], row[3])
+
+            attempts = -1
+        except:
+            attempts += 1
+
+        if attempts > 10000:
+            print("Tried 10000 attempts!")
+            return -1
 
     return starttime
 
@@ -134,7 +145,7 @@ def to_string(data):
 def get_creds():
     with open('C:\\Users\\Ailin\\user.txt', 'r') as file:
         cred = file.readline()
-        split = cred.split(',')
+        split = cred.split(' ')
     return split[0], split[1]
 
 
