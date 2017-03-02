@@ -1,0 +1,59 @@
+# Post-process building data. String comparisons are modeled from Olin data string names.
+
+import sys
+import csv
+
+
+floor = [0] * 8
+
+
+# Process each file one at a time; append to one output file
+def main(data_file):
+    with open(data_file, 'r') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            floor_data(row)
+    print(floor)
+
+
+def floor_data(row):
+    floor2 = floor3 = floor4 = floor5 = floor6 = floor7 = floor8 = {}
+    for entry in row.keys():
+        for floor_num in range(2, 8): # TODO: check if this is inclusive or exclusive?
+            if 'Rm2' or 'RmF2' in entry:
+                floor2[entry] = row[entry]
+                floor[2] = floor2
+            elif 'Rm3' or 'RmF3' in entry:
+                floor3[entry] = row[entry]
+                floor[3] = floor3
+            elif 'Rm4' or 'RmF4' in entry:
+                floor4[entry] = row[entry]
+                floor[4] = floor4
+            elif 'Rm5' or 'RmF5' in entry:
+                floor5[entry] = row[entry]
+                floor[5] = floor5 
+            elif 'Rm6' or 'RmF6' in entry:
+                floor6[entry] = row[entry]
+                floor[6] = floor6  
+            elif 'Rm7' or 'RmF7' in entry:
+                floor7[entry] = row[entry]
+                floor[7] = floor7 
+            elif 'Rm8' or 'RmF8' in entry:
+                floor8[entry] = row[entry]
+                floor[8] = floor8
+            # rm = 'Rm' + str(floor_num)
+            # if rm in entry:
+            #     floor_lvl = 'floor' + str(floor_num)
+            #     exec(floor_lvl + " = row[entry]") # TODO: Check if this works
+            #     # floor2[entry] = row[entry]
+            #     floor[2] = eval('floor' + str(floor_num)) # TODO: figure this line out
+
+
+# Can pass multiple files to script
+if __name__ == "__main__":
+   for file in sys.argv:
+       if '.py' in file:
+           pass # skip first argument
+       else:
+        main(file)
+
