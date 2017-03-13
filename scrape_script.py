@@ -48,7 +48,7 @@ def data_gen(data):  # strip units
 
 def csv_write(dict, filename):
 
-    #create file if needed
+    # create file if needed
     try:
         file = open(filename, 'r')
     except:
