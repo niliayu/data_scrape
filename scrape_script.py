@@ -74,10 +74,9 @@ def csv_write(dict, filename):
 
                 try:
                     tmp.close()
-                    print(os.getcwd() + '\\tmp.csv')
                     os.remove(os.getcwd() + '\\tmp.csv')
                 except:
-                    print("DEBUG: Could not delete tmp.csv.")
+                    print("Could not delete tmp.csv.")
             except:
                 data_writer.writerow(dict)
     except PermissionError:
