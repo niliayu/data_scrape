@@ -185,6 +185,11 @@ def avg_sum(row, avg_output_floor, avg_output_exp, sum_output_floor, sum_output_
     floor7_flow = []
     floor8_flow = []
 
+    add_time(row, avg_floor)
+    add_time(row, avg_exp)
+    add_time(row, sum_floor)
+    add_time(row, sum_exp)
+
     for entry in row.keys():
         if ('Rm2' or 'RmF2') in entry:
             if 'temp' in entry.lower():
