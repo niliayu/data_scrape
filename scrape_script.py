@@ -103,7 +103,7 @@ def query(url, starttime):
     starttime = check_time_delta(starttime, datetime.now())
     user, ps = get_creds()
 
-    attempts = 0
+    attempts = 1
     while attempts > 0:
         try:
             olin_pg = requests.get(url, auth=(user, ps))
@@ -142,11 +142,22 @@ def to_string(data):
 
 
 def get_creds():
-    with open('C:\\Users\\Ailin\\user.txt', 'r') as file:
+    with open('user.txt', 'r') as file:
         cred = file.readline()
         split = cred.split(' ')
     return split[0], split[1]
 
+
+def check_start(filename):
+    try:
+        with open(filename, 'r') as file:
+            reader = csv.DictReader(file)
+            first_entry = next(reader)
+            starttime = datetime.strptime(first_entry['Time'], '%Y-%m-%d %H:%M:%S.%f')
+            timestr['delta'] = (datetime.now() - starttime).total_seconds()
+            row_entry['Time Delta'] = timestr.get('delta')
+    except:
+        pass
 
 def main(bldg, rate):
 
@@ -163,7 +174,8 @@ def main(bldg, rate):
 
     while True:
         starttime = query(url, starttime)
-        filename = str(starttime.year) + '_' + str(starttime.month) + '_' + str(starttime.day) + '_data.csv'
+        filename = str(starttime.year) + '_' + str(starttime.month) + '_' + str(starttime.day) + '_' + bldg.lower() + '.csv'
+        check_start(filename)
         csv_write(row_entry, filename)
         time.sleep(rate)  # sleep for rate seconds
 
