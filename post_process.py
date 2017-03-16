@@ -76,7 +76,7 @@ def flow_error_check(row, max_min_check, error_check):
             minflow = float(row[entry.replace('flowsetpoint', 'minflow')])
             if flowset == maxflow:
                 tmp_mm[entry] = 100  # max flow
-            elif flowset == minflow:
+            elif (flowset == minflow) or (maxflow == 0):
                 tmp_mm[entry] = 0
             else:
                 tmp_mm[entry] = abs((maxflow - flow)/maxflow)*100
