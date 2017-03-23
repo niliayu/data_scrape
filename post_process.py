@@ -3,7 +3,7 @@
 import csv
 import sys
 
-floor = [0] * 9
+floor_ = [0] * 9
 exposure = [0] * 5
 avg_temps_floor = []
 sum_boxflows_floor = []
@@ -21,11 +21,12 @@ def main(data_file):
 
         # generate floors
         for row in reader:
-            floor_data(row, floor)
+            floor_data(row, floor_)
             exp_data(row, exposure)
             flow_error_check(row, max_min, flow_error)
             temp_error_check(row, temp_error)
-            avg_sum(row, avg_temps_floor, avg_temps_exp, sum_boxflows_floor, sum_boxflows_exp)
+            avg_sum_floor(row, avg_temps_floor, sum_boxflows_floor)
+            avg_sum_exposure(row, avg_temps_exp, sum_boxflows_exp)
 
     write_csv(file, max_min, 'max_min_')
     write_csv(file, flow_error, 'flow_error_')
@@ -151,173 +152,78 @@ def sum_flows(list, headers, output):
     output.append(tmp_dict)
 
 
-def avg_sum(row, avg_output_floor, avg_output_exp, sum_output_floor, sum_output_exp):
+def avg_sum_exposure(row, avg_output_exp, sum_output_exp): # right now assume exposures will be found in exposures.csv in this directory
+    # exp = {'n' : [], 's' : [], 'e' : [], 'w' : []}
+    exp = {}
+    with open('exposures.csv', 'r') as file:
+        reader = csv.reader(file)
+        for row_ in reader:
+            exp[row_[0]] = row_[1] # Rm : n/s/e/w
+            # for key in exp:
+            #     if row[1] == key:
+            #         exp[key] = row[0]
+
     avg_exp = {}
-    avg_floor = {}
     sum_exp = {}
-    sum_floor = {}
 
-    # empty dicts for ALL THE EXPOSURES
-    north_temp = []
-    south_temp = []
-    east_temp = []
-    west_temp = []
-    
-    north_flow = []
-    south_flow = []
-    east_flow = []
-    west_flow = []
+    temp_dict = {'n_temp' : [], 's_temp' : [], 'e_temp' : [], 'w_temp' : [], 'c_temp' : [], 'b_temp' : []}
+    flow_dict = {'n_flow': [], 's_flow': [], 'e_flow': [], 'w_flow': [], 'c_flow' : [], 'b_flow' : []}
 
-    # Empty dicts for ALL THE FLOORS
-    floor2_temp = []
-    floor3_temp = []
-    floor4_temp = []
-    floor5_temp = []
-    floor6_temp = []
-    floor7_temp = []
-    floor8_temp = []
-
-    floor2_flow = []
-    floor3_flow = []
-    floor4_flow = []
-    floor5_flow = []
-    floor6_flow = []
-    floor7_flow = []
-    floor8_flow = []
-
-    add_time(row, avg_floor)
     add_time(row, avg_exp)
-    add_time(row, sum_floor)
     add_time(row, sum_exp)
 
+    for entry in row:
+        for key in exp:
+            if (key in entry) and (len(exp[key]) > 0):
+                exp_l = str(exp[key])
+                if 'temp' in entry:
+                    temp_dict[exp_l + '_temp'].append(float(row[entry]))
+                if 'boxflow' in entry:
+                    flow_dict[exp_l + '_flow'].append(float(row[entry]))
+
+    # TODO : processing, population of sums and averages
+
+
+def avg_sum_floor(row, avg_output_floor, sum_output_floor):
+    avg_floor = {}
+    sum_floor = {}
+
+    # Empty dicts for ALL THE FLOORS
+    temp_dict = {'floor2_temp' : [], 'floor3_temp' : [], 'floor4_temp' : [], 'floor5_temp' : [], 'floor6_temp' : [],
+                 'floor7_temp' : [], 'floor8_temp' : []}
+    flow_dict = {'floor2_flow': [], 'floor3_flow': [], 'floor4_flow': [], 'floor5_flow': [], 'floor6_flow': [],
+                 'floor7_flow': [], 'floor8_flow': []}
+
+    add_time(row, avg_floor)
+    add_time(row, sum_floor)
+
     for entry in row.keys():
-        if ('Rm2' or 'RmF2') in entry:
-            if 'temp' in entry.lower():
-                floor2_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor2_flow.append(float(row[entry]))
-        elif ('Rm3' or 'RmF3') in entry:
-            if 'temp' in entry.lower():
-                floor3_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor3_flow.append(float(row[entry]))
-        elif ('Rm4' or 'RmF4') in entry:
-            if 'temp' in entry.lower():
-                floor4_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor4_flow.append(float(row[entry]))
-        elif ('Rm5' or 'RmF5') in entry:
-            if 'temp' in entry.lower():
-                floor5_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor5_flow.append(float(row[entry]))
-        elif ('Rm6' or 'RmF6') in entry:
-            if 'temp' in entry.lower():
-                floor6_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor6_flow.append(float(row[entry]))
-        elif ('Rm7' or 'RmF7') in entry:
-            if 'temp' in entry.lower():
-                floor7_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor7_flow.append(float(row[entry]))
-        elif ('Rm8' or 'RmF8') in entry:
-            if 'temp' in entry.lower():
-                floor8_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                floor8_flow.append(float(row[entry]))
+        for level in range(2,8):
+            if ('rm' + str(level)) in entry.lower():
+                floor = 'floor' + str(level)
+                if 'temp' in entry.lower():
+                    temp_dict[floor + '_temp'].append(float(row[entry]))
+                if 'boxflow' in entry.lower():
+                    flow_dict[floor + '_flow'].append(float(row[entry]))
 
-        if 'NTH' in entry.upper():
-            if 'temp' in entry.lower():
-                north_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                north_flow.append(float(row[entry]))
-        elif 'STH' in entry.upper():
-            if 'temp' in entry.lower():
-                south_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                south_flow.append(float(row[entry]))
-        elif 'EST' in entry.upper():
-            if 'temp' in entry.lower():
-                east_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                east_flow.append(float(row[entry]))
-        elif 'WST' in entry.upper():
-            if 'temp' in entry.lower():
-                west_temp.append(float(row[entry]))
-            if 'boxflow' in entry.lower():
-                west_flow.append(float(row[entry]))
 
-    if(len(floor2_temp) > 0):
-        avg_floor['floor2_avg_temp'] = sum_list(floor2_temp) / len(floor2_temp)
-    else:
-        avg_floor['floor2_avg_temp'] = 0
-    sum_floor['floor2_sum_flows'] = sum_list(floor2_flow)
+    level = 2
+    for entry in temp_dict.values():
+        floor = 'floor' + str(level)
+        try:
+            avg_floor[floor + '_avg_temp'] = sum_list(entry)/len(entry)
+        except ZeroDivisionError:
+            avg_floor[floor + '_avg_temp'] = 0
+        level += 1
 
-    if(len(north_temp) > 0):
-        avg_exp['north_avg_temps'] = sum_list(north_temp) / len(north_temp)
-    else:
-        avg_exp['north_avg_temps'] = 0
-    sum_exp['north_sum_flows'] = sum_list(north_flow)
-
-    if(len(floor3_temp) > 0):
-        avg_floor['floor3_avg_temp'] = sum_list(floor3_temp) / len(floor3_temp)
-    else:
-        avg_floor['floor3_avg_temp'] = 0
-    sum_floor['floor3_sum_flows'] = sum_list(floor3_flow)
-
-    if(len(south_temp) > 0):
-        avg_exp['south_avg_temps'] = sum_list(south_temp) / len(south_temp)
-    else:
-        avg_exp['south_avg_temps'] = 0
-    sum_exp['south_sum_flows'] = sum_list(south_flow)
-
-    if(len(floor4_temp) > 0):
-        avg_floor['floor4_avg_temp'] = sum_list(floor4_temp) / len(floor4_temp)
-    else:
-        avg_floor['floor4_avg_temp'] = 0
-    sum_floor['floor4_sum_flows'] = sum_list(floor4_flow)
-
-    if(len(east_temp) > 0):
-        avg_exp['east_avg_temps'] = sum_list(east_temp) / len(east_temp)
-    else:
-        avg_exp['east_avg_temps'] = 0
-    sum_exp['east_sum_flows'] = sum_list(east_flow)
-
-    if(len(floor5_temp) > 0):
-        avg_floor['floor5_avg_temp'] = sum_list(floor5_temp) / len(floor5_temp)
-    else:
-        avg_floor['floor5_avg_temp'] = 0
-    sum_floor['floor5_sum_flows'] = sum_list(floor5_flow)
-
-    if(len(west_temp) > 0):
-        avg_exp['west_avg_temps'] = sum_list(west_temp) / len(west_temp)
-    else:
-        avg_exp['west_avg_temps'] = 0
-    sum_exp['west_sum_flows'] = sum_list(west_flow)
-
-    if(len(floor6_temp) > 0):
-        avg_floor['floor6_avg_temp'] = sum_list(floor6_temp) / len(floor6_temp)
-    else:
-        avg_floor['floor6_avg_temp'] = 0
-    sum_floor['floor6_sum_flows'] = sum_list(floor6_flow)
-
-    if(len(floor7_temp) > 0):
-        avg_floor['floor7_avg_temp'] = sum_list(floor7_temp) / len(floor7_temp)
-    else:
-        avg_floor['floor7_avg_temp'] = 0
-    sum_floor['floor7_sum_flows'] = sum_list(floor7_flow)
-
-    if(len(floor8_temp) > 0):
-        avg_floor['floor8_avg_temp'] = sum_list(floor7_temp) / len(floor7_temp)
-    else:
-        avg_floor['floor8_avg_temp'] = 0
-    sum_floor['floor8_sum_flows'] = sum_list(floor7_flow)
+    level = 2
+    for entry in flow_dict.values():
+        floor = 'floor' + str(level)
+        sum_floor[floor + '_sum_flows'] = sum_list(entry)
+        level += 1
 
     avg_output_floor.append(avg_floor)
-    avg_output_exp.append(avg_exp)
     sum_output_floor.append(sum_floor)
-    sum_output_exp.append(sum_exp)
 
 
 def floor_data(row, output):
@@ -380,8 +286,10 @@ def exp_data(row, output):
 def sum_list(list):
     sum = 0
     for x in list:
-
-        sum += x
+        try:
+            sum += x
+        except TypeError:
+            pass
     return sum
 
 def find_est(string):
@@ -394,6 +302,7 @@ def find_est(string):
         return "EST"
     elif "WST" in string:
         return "WST"
+
 
 # Can pass multiple files to script
 if __name__ == "__main__":
