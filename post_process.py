@@ -16,6 +16,16 @@ temp_error = []
 
 # Process each file one at a time; append to one output file
 def main(data_file):
+
+    # clear arrays for new file
+    avg_temps_floor.clear()
+    sum_boxflows_floor.clear()
+    avg_temps_exp.clear()
+    sum_boxflows_exp.clear()
+    max_min.clear()
+    flow_error.clear()
+    temp_error.clear()
+
     with open(data_file, 'r') as file:
         reader = csv.DictReader(file)
 
@@ -43,7 +53,8 @@ def main(data_file):
     write_csv(file, sum_boxflows_exp, 'sum_boxflows_exp_')
     write_csv(file, sum_boxflows_floor, 'sum_boxflows_floor_')
 
-    Print("Done.")
+    print("Done.")
+
 
 def write_csv(datafile, list, name):
     filename = name + datafile.name
@@ -106,8 +117,16 @@ def flow_error_check(row, max_min_check, error_check):
                 except:  # still div by 0!?
                     tmp_err[entry] = 0
 
-    tmp_mm["% at max"] = bldg_max
-    tmp_mm["% at min"] = bldg_min
+    try:
+        tmp_mm["% at max"] = bldg_max/len(tmp_err)
+    except:
+        tmp_mm["% at max"] = 0
+
+    try:
+        tmp_mm["% at min"] = bldg_min/len(tmp_err)
+    except:
+        tmp_mm["% at min"] = 0
+
     try:
         tmp_mm["% overall"] = bldg_flo/bldg_tot
     except ZeroDivisionError:
@@ -179,7 +198,7 @@ def process_floor(row, avg_output_floor, sum_output_floor):
     add_time(row, sum_floor)
 
     for entry in row.keys():
-        for level in range(2,8):
+        for level in range(2,9):
             floor = 'floor' + str(level)
             if ('rm' + str(level)) in entry.lower():
                 if 'temp' in entry.lower():
