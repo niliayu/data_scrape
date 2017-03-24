@@ -27,9 +27,9 @@ def gen_dict_entry(path, data):
     if len(split_path[len(split_path)-1]) > 0:
         name = split_path[len(split_path)-1]
     else:
-        name = split_path[len(split_path)-2] +split_path[len(split_path)-1]
+        name = split_path[len(split_path)-2] + split_path[len(split_path)-1]
 
-    if ('Trends' not in path) and (('schedule' not in path) or ('ac1_sch' in path)):
+    if ('Trends' not in path) and (('schedule' not in path) or ('ac1_sch' in path) or ("Rm413" not in path)):
         row_entry[col_title_checker(split_path, name)] = data_gen(data)
 
 

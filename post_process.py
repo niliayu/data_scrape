@@ -19,15 +19,21 @@ def main(data_file):
     with open(data_file, 'r') as file:
         reader = csv.DictReader(file)
 
+        print("Processing %s..." % str(data_file))
+
         # generate floors
+        count = 0
         for row in reader:
             floor_data(row, floor_)
             exp_data(row, exposure)
             flow_error_check(row, max_min, flow_error)
             temp_error_check(row, temp_error)
-            avg_sum_floor(row, avg_temps_floor, sum_boxflows_floor)
-            avg_sum_exposure(row, avg_temps_exp, sum_boxflows_exp)
+            process_floor(row, avg_temps_floor, sum_boxflows_floor)
+            process_exposure(row, avg_temps_exp, sum_boxflows_exp)
+            count += 1
 
+    print("Processed %d rows." % count)
+    print("Writing to file...")
     write_csv(file, max_min, 'max_min_')
     write_csv(file, flow_error, 'flow_error_')
     write_csv(file, temp_error, 'temp_error_')
@@ -37,6 +43,7 @@ def main(data_file):
     write_csv(file, sum_boxflows_exp, 'sum_boxflows_exp_')
     write_csv(file, sum_boxflows_floor, 'sum_boxflows_floor_')
 
+    Print("Done.")
 
 def write_csv(datafile, list, name):
     filename = name + datafile.name
@@ -46,10 +53,7 @@ def write_csv(datafile, list, name):
         writer.writeheader()
         writer.writerow(first)
         for entry in list:
-            # blank = csv.writer(file)
-            # blank.writerow("\n")
             writer = csv.DictWriter(file, entry.keys(), delimiter=',', lineterminator='\n')
-            # writer.writeheader()
             writer.writerow(entry)
 
 
@@ -65,6 +69,12 @@ def temp_error_check(row, output):
 def flow_error_check(row, max_min_check, error_check):
     tmp_mm = {}
     tmp_err = {}
+
+    bldg_min = 0
+    bldg_max = 0
+    bldg_flo = 0
+    bldg_tot = 0
+
     for entry in row.keys():
         if 'flowsetpoint' in entry.lower():
 
@@ -75,10 +85,16 @@ def flow_error_check(row, max_min_check, error_check):
             flow = float(row[entry.replace('flowsetpoint', 'boxflow')])
             maxflow = float(row[entry.replace('flowsetpoint', 'maxflow')])
             minflow = float(row[entry.replace('flowsetpoint', 'minflow')])
+
+            bldg_flo += flow
+            bldg_tot += maxflow
+
             if flowset == maxflow:
                 tmp_mm[entry] = 100  # max flow
+                bldg_max += 1
             elif (flowset == minflow) or (maxflow == 0):
                 tmp_mm[entry] = 0
+                bldg_min += 1
             else:
                 tmp_mm[entry] = abs((maxflow - flow)/maxflow)*100
 
@@ -89,6 +105,13 @@ def flow_error_check(row, max_min_check, error_check):
                     tmp_err[entry] = abs((flowset - flow) / (flowset + flow)) * 100
                 except:  # still div by 0!?
                     tmp_err[entry] = 0
+
+    tmp_mm["% at max"] = bldg_max
+    tmp_mm["% at min"] = bldg_min
+    try:
+        tmp_mm["% overall"] = bldg_flo/bldg_tot
+    except ZeroDivisionError:
+        tmp_mm["% overall"] = 0
 
     max_min_check.append(tmp_mm)
     error_check.append(tmp_err)
@@ -103,65 +126,13 @@ def add_time(row, output):
         output['Time Delta'] = row['Time Delta']
 
 
-def temp_avg(list, headers, output):
-    # generate temperature avgs for each floor
-    tmp_dict = {}
-    for entry in range(0, len(list)):
-        tmp_list = []
-        key = ''
-        try:
-            for keys in list[entry].keys():
-                if ('temp' or 'Temp') in keys:
-                    tmp_list.append(float(list[entry][keys]))
-                for label in headers:
-                    if label == find_est(keys):
-                        key = label
-
-            if len(key) < 1:
-                key = headers[entry]
-
-            try:
-                tmp_dict[key] = sum_list(tmp_list) / len(tmp_list)
-            except:
-                tmp_dict[key] = 0
-        except:
-            pass
-    output.append(tmp_dict)
-
-
-def sum_flows(list, headers, output):
-    # sum boxflows for each floor
-    tmp_dict = {}
-    for entry in range(0, len(list)):
-        tmp_list = []
-        key = ''
-        try:
-            for keys in list[entry].keys():
-                if 'boxflow' in keys:
-                    tmp_list.append(float(list[entry][keys]))
-                for label in headers:
-                    if label == find_est(keys):
-                        key = label
-
-            if len(key) > 0:
-                tmp_dict[key] = sum_list(tmp_list)
-            else:
-                tmp_dict[headers[entry]] = sum_list(tmp_list)
-        except:
-            pass
-    output.append(tmp_dict)
-
-
-def avg_sum_exposure(row, avg_output_exp, sum_output_exp): # right now assume exposures will be found in exposures.csv in this directory
-    # exp = {'n' : [], 's' : [], 'e' : [], 'w' : []}
+def process_exposure(row, avg_output_exp, sum_output_exp):
+    # right now assume exposures will be found in exposures.csv in this directory
     exp = {}
     with open('exposures.csv', 'r') as file:
         reader = csv.reader(file)
         for row_ in reader:
             exp[row_[0]] = row_[1] # Rm : n/s/e/w
-            # for key in exp:
-            #     if row[1] == key:
-            #         exp[key] = row[0]
 
     avg_exp = {}
     sum_exp = {}
@@ -176,15 +147,25 @@ def avg_sum_exposure(row, avg_output_exp, sum_output_exp): # right now assume ex
         for key in exp:
             if (key in entry) and (len(exp[key]) > 0):
                 exp_l = str(exp[key])
-                if 'temp' in entry:
+                if ('temp' in entry) and ('rmf' not in entry.lower()):
                     temp_dict[exp_l + '_temp'].append(float(row[entry]))
                 if 'boxflow' in entry:
                     flow_dict[exp_l + '_flow'].append(float(row[entry]))
 
-    # TODO : processing, population of sums and averages
+    for entry in temp_dict:
+        try:
+            avg_exp[entry] = sum_list(temp_dict[entry])/len(temp_dict[entry])
+        except ZeroDivisionError:
+            avg_exp[entry] = 0
+
+    for entry in flow_dict:
+        sum_exp[entry] = sum_list(flow_dict[entry])
+
+    avg_output_exp.append(avg_exp)
+    sum_output_exp.append(sum_exp)
 
 
-def avg_sum_floor(row, avg_output_floor, sum_output_floor):
+def process_floor(row, avg_output_floor, sum_output_floor):
     avg_floor = {}
     sum_floor = {}
 
@@ -199,28 +180,22 @@ def avg_sum_floor(row, avg_output_floor, sum_output_floor):
 
     for entry in row.keys():
         for level in range(2,8):
+            floor = 'floor' + str(level)
             if ('rm' + str(level)) in entry.lower():
-                floor = 'floor' + str(level)
                 if 'temp' in entry.lower():
                     temp_dict[floor + '_temp'].append(float(row[entry]))
+            if (('rm' + str(level)) in entry.lower()) or (('rmf' + str(level)) in entry.lower()):
                 if 'boxflow' in entry.lower():
                     flow_dict[floor + '_flow'].append(float(row[entry]))
 
-
-    level = 2
-    for entry in temp_dict.values():
-        floor = 'floor' + str(level)
+    for entry in temp_dict:
         try:
-            avg_floor[floor + '_avg_temp'] = sum_list(entry)/len(entry)
+            avg_floor[entry] = sum_list(temp_dict[entry])/len(temp_dict[entry])
         except ZeroDivisionError:
-            avg_floor[floor + '_avg_temp'] = 0
-        level += 1
+            avg_floor[entry] = 0
 
-    level = 2
-    for entry in flow_dict.values():
-        floor = 'floor' + str(level)
-        sum_floor[floor + '_sum_flows'] = sum_list(entry)
-        level += 1
+    for entry in flow_dict:
+        sum_floor[entry] = sum_list(flow_dict[entry])
 
     avg_output_floor.append(avg_floor)
     sum_output_floor.append(sum_floor)
@@ -291,17 +266,6 @@ def sum_list(list):
         except TypeError:
             pass
     return sum
-
-def find_est(string):
-    string = string.upper()
-    if "NTH" in string:
-        return "NTH"
-    elif "STH" in string:
-        return "STH"
-    elif "EST" in string:
-        return "EST"
-    elif "WST" in string:
-        return "WST"
 
 
 # Can pass multiple files to script
