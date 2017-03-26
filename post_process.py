@@ -73,7 +73,7 @@ def temp_error_check(row, output):
     for entry in row.keys():
         if 'spacesetpoint' in entry:
             add_time(row, tmp)
-            tmp[entry] = float(row[entry] - float(row[entry.replace('spacesetpoint', 'spacetemp')]))
+            tmp[entry] = float(row[entry]) - float(row[entry.replace('spacesetpoint', 'spacetemp')])
     output.append(tmp)
 
 
