@@ -73,7 +73,7 @@ def temp_error_check(row, output):
     for entry in row.keys():
         if 'spacesetpoint' in entry:
             add_time(row, tmp)
-            tmp[entry] = abs(float(row[entry]) - float(row[entry.replace('spacesetpoint', 'spacetemp')]))
+            tmp[entry] = float(row[entry] - float(row[entry.replace('spacesetpoint', 'spacetemp')]))
     output.append(tmp)
 
 
@@ -107,13 +107,13 @@ def flow_error_check(row, max_min_check, error_check):
                 tmp_mm[entry] = 0
                 bldg_min += 1
             else:
-                tmp_mm[entry] = abs((maxflow - flow)/maxflow)*100
+                tmp_mm[entry] = ((maxflow - flow)/maxflow)*100
 
             try:
-                tmp_err[entry] = abs((flowset - flow)/flowset)*100
+                tmp_err[entry] = ((flowset - flow)/flowset)*100
             except:  # div by 0
                 try:
-                    tmp_err[entry] = abs((flowset - flow) / (flowset + flow)) * 100
+                    tmp_err[entry] = ((flowset - flow) / (flowset + flow)) * 100
                 except:  # still div by 0!?
                     tmp_err[entry] = 0
 
@@ -166,7 +166,7 @@ def process_exposure(row, avg_output_exp, sum_output_exp):
         for key in exp:
             if (key in entry) and (len(exp[key]) > 0):
                 exp_l = str(exp[key])
-                if ('temp' in entry) and ('rmf' not in entry.lower()):
+                if ('temp' in entry) or ('temp' in entry and 'rmf' in entry.lower() and 'b' in exp_l):
                     temp_dict[exp_l + '_temp'].append(float(row[entry]))
                 if 'boxflow' in entry:
                     flow_dict[exp_l + '_flow'].append(float(row[entry]))
